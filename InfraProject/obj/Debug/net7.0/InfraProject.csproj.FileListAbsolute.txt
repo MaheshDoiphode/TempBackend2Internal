@@ -1,0 +1,17 @@
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\bin\Debug\net7.0\InfraProject.deps.json
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\bin\Debug\net7.0\InfraProject.runtimeconfig.json
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\bin\Debug\net7.0\InfraProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\bin\Debug\net7.0\InfraProject.pdb
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\bin\Debug\net7.0\DomainProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\bin\Debug\net7.0\DomainProject.pdb
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.csproj.AssemblyReference.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.AssemblyInfoInputs.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.AssemblyInfo.cs
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.csproj.CoreCompileInputs.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.csproj.CopyComplete
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\refint\InfraProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.pdb
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\InfraProject.genruntimeconfig.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\InfraProject\obj\Debug\net7.0\ref\InfraProject.dll

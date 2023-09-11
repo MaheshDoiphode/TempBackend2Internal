@@ -1,0 +1,12 @@
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\bin\Debug\net7.0\DomainProject.deps.json
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\bin\Debug\net7.0\DomainProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\bin\Debug\net7.0\DomainProject.pdb
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.csproj.AssemblyReference.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.AssemblyInfoInputs.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.AssemblyInfo.cs
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.csproj.CoreCompileInputs.cache
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\refint\DomainProject.dll
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\DomainProject.pdb
+C:\Users\p1357911\Desktop\intenal\Back-End\Personalv0.1\DomainProject\obj\Debug\net7.0\ref\DomainProject.dll
